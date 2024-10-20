@@ -1,4 +1,4 @@
-# Store Data Analysis Dashboard
+# Store Data Analysis Power BI Dashboard
 
 This project provides a comprehensive business performance analysis for ShopNest Store, utilizing Power BI to visualize and analyze key business metrics. The main objective is to identify trends, patterns, and actionable insights from the store's sales, customer behavior, product performance, and operational efficiency.
 
